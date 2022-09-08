@@ -22,7 +22,7 @@ h2 {
 }
 
 .headshots {
-    border: 50px rgba(96, 41, 204, 0.2) solid
+    border-radius: 50px;
 
 }
 
